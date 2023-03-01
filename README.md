@@ -1,4 +1,4 @@
-# MicroServicios-Modulo-de-Pagos-Transaction
+# MicroServicios-Modulo-de-Pagos Transaction
 Implementar una plataforma de medios de pagos
 Arquitectura de microservicios con Spring Boot, API RESFul, JPA.
 Cada uno ejecutándose de forma autónoma y comunicándose entre sí, por medio de API.
